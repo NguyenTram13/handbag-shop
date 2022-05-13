@@ -4,6 +4,11 @@
 }
 /* mobile */
 @media  (max-width: 739px){
+    .main-login h1,
+    .main-register h1{
+        font-size:1.8rem;   
+    }
+    .main-register-return,
     .main-login-return{
         font-size:1.2rem;
     }
