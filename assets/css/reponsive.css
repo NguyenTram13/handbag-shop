@@ -4,6 +4,9 @@
 }
 /* mobile */
 @media  (max-width: 739px){
+    .main-login-return{
+        font-size:1.2rem;
+    }
     .navbar-logo img {
         width: 75px;
     }
